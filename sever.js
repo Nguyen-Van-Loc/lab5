@@ -18,7 +18,7 @@ app.get('/', async (req, res) => {
     const data = {
       id: "1",
       albumId: "2",
-      title: "reprehenderit est deserunt velit ipsam",
+      title: "Chu be dan",
       url: "https://via.placeholder.com/600/771796",
       thumbnailUrl: "https://via.placeholder.com/150/771796"
     }
